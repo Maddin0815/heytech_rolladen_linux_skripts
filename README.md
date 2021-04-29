@@ -1,0 +1,2 @@
+# heytech_rolladen_linux_skripts
+HEYtech Rolladensteuerung mittels Linux-Skripts ansprechen
