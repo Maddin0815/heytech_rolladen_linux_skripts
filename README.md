@@ -10,4 +10,5 @@ Durch diesen rudimentären Ansatz kann die Rolladensteuerung in alle Heimautomat
 - NodeRed
 
 Die vollständige Dokumentation findet sich im Wiki dieses Projekts an dieser Stelle:
+
 https://github.com/Maddin0815/heytech_rolladen_linux_skripts/wiki
